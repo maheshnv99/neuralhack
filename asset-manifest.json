@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/neuralhack/static/css/main.f4d290c6.chunk.css",
-    "main.js": "/neuralhack/static/js/main.fe4b6e47.chunk.js",
-    "main.js.map": "/neuralhack/static/js/main.fe4b6e47.chunk.js.map",
+    "main.js": "/neuralhack/static/js/main.01b1e84e.chunk.js",
+    "main.js.map": "/neuralhack/static/js/main.01b1e84e.chunk.js.map",
     "runtime-main.js": "/neuralhack/static/js/runtime-main.608c981b.js",
     "runtime-main.js.map": "/neuralhack/static/js/runtime-main.608c981b.js.map",
     "static/js/2.3bff858d.chunk.js": "/neuralhack/static/js/2.3bff858d.chunk.js",
@@ -17,6 +17,6 @@
     "static/js/runtime-main.608c981b.js",
     "static/js/2.3bff858d.chunk.js",
     "static/css/main.f4d290c6.chunk.css",
-    "static/js/main.fe4b6e47.chunk.js"
+    "static/js/main.01b1e84e.chunk.js"
   ]
 }
